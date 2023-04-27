@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/mabassra.SCT/OneDrive - DP World/Documents/Projects/AmazonPOMAsim/src/main/java/AmazonTests/SearchProduct.java">
+        <classes>
+            <class name="AmazonTests.SearchProduct">
+                <methods>
+                    <include name="OpenAmazon"/>
+                    <include name="SearchProduct"/>
+                    <include name="SelectSonyTV"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
