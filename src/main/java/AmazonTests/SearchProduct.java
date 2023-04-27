@@ -75,7 +75,7 @@ public class SearchProduct {
     }
 
     @Test(priority = 3)
-    public void SelectSonyTV() throws InterruptedException {
+    public void SelectSonyTVSize() throws InterruptedException {
         AmazonLandingPage amz = new AmazonLandingPage(driver);
         amz.SelectSony();
 

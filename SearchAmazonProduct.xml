@@ -8,7 +8,7 @@
                 <methods>
                     <include name="OpenAmazon"/>
                     <include name="SearchProduct"/>
-                    <include name="SelectSonyTV"/>
+                    <include name="SelectSonyTVSize"/>
                 </methods>
             </class>
         </classes>
